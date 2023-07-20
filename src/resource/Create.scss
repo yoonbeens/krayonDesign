@@ -1,0 +1,22 @@
+* {
+    border-radius: 12px;
+}
+
+
+
+.create-wrapper {
+    width: 80vw;
+    height: 90vh;
+    background: #dde1e7;
+    // background: url("https://applemagazine.com/wp-content/uploads/2020/09/AppleMagazine-iPad-Air-Wallpaper-2020-4.png");
+    // background-size: cover;
+    box-shadow: -5px -5px 10px #ffffff73, 8px 8px 12px rgba(94, 104, 121, .288);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: space-between;
+
+
+}
